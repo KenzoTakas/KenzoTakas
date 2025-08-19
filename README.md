@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
