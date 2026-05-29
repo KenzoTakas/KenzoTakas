@@ -8,7 +8,7 @@
 
 Sou um estudante de Ciência da Computação em processo de aprendizado e evolução constante.
 
-Tenho interesse em desenvolvimento web, programação em C, front-end e nos fundamentos principais da computação.
+Atualmente tenho interesse em desenvolvimento web, programação em C, front-end e nos fundamentos principais da computação.
 
 Atualmente, estou focado em aprender na prática, melhorando minha lógica de programação, entendendo melhor Git/GitHub e desenvolvendo projetos com React, Tailwind CSS e Vite.
 
