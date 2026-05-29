@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Kenzo
+# Olá, eu sou o Kenzo 😉
 
 🎓 Estudante de Ciência da Computação na UFPel
 
