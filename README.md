@@ -1,6 +1,6 @@
 ## Olá, sou o Kenzo 👋
 
-Estudante de Ciência da Computação e desenvolvedor front-end na HUT8.
+Estudante de Ciência da Computação e desenvolvedor front-end (atualmente).
 
 Atualmente trabalhando com React, TailwindCSS e Vite no desenvolvimento de sites.
 
