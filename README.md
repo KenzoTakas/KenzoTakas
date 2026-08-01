@@ -1,3 +1,5 @@
-Olá! 👋
+Estudante de Ciência da Computação e desenvolvedor front-end na HUT8.
 
-Sou estudante de Ciência da Computação na UFPel e utilizo este GitHub para compartilhar projetos, registrar meu aprendizado e acompanhar minha evolução como desenvolvedor.
+Atualmente trabalhando com React, TailwindCSS e Vite no desenvolvimento de sites.
+
+**Linguagens e ferramentas:** React · TailwindCSS · C · Git · GitHub
